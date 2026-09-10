@@ -8,7 +8,7 @@ IMS System
 🏠 Dashboard
 </a>
 
-<a href="inventory/categories.php" class="nav-link text-white">
+<a href="/categories.php" class="nav-link text-white">
     🗂 Categories
 </a>
 

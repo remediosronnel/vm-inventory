@@ -1,6 +1,8 @@
 <?php
 include "includes/session.php";
 checkLogin();
+
+
 include "config/database.php";
 
 $productQuery = mysqli_query($conn, "SELECT COUNT(*) AS total FROM products" ); 
